@@ -27,7 +27,7 @@ Archivos utilizados:
 
 ## Estructura de la práctica
 
-### Notebook 1: modelo_entrenamiento_FINAL_con_SMOTE.ipynb
+### Notebook 1: modelo_entrenamiento.ipynb
 
 - Análisis exploratorio de los datos (EDA).
 - Detección de valores nulos, columnas constantes y variables categóricas.
