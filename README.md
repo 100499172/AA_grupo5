@@ -11,7 +11,7 @@
 
 Se incluyen los siguientes archivos en la entrega:
 
-- `modelo_entrenamiento_FINAL_con_SMOTE.ipynb`: notebook principal que contiene el análisis exploratorio, evaluación de modelos, ajuste de hiperparámetros, tareas adicionales y conclusiones.
+- `modelo_entrenamiento.ipynb`: notebook principal que contiene el análisis exploratorio, evaluación de modelos, ajuste de hiperparámetros, tareas adicionales y conclusiones.
 - `modelo_final.ipynb`: notebook que entrena el modelo final con todos los datos y genera las predicciones para el conjunto de competición.
 - `modelo_final.pkl`: modelo final entrenado, guardado para su posterior reutilización.
 - `predicciones.csv`: predicciones generadas para el conjunto de competición.
